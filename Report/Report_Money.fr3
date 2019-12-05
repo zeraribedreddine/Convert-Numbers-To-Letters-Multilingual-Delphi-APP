@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="6.4.11" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="167935" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="43802,0566668866" ReportOptions.Description.Text="" ReportOptions.LastChange="43802,0647229861" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="180" PaperSize="256" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" Frame.Typ="0" MirrorMode="0" HGuides.Text="" VGuides.Text="">
+    <TfrxShapeView Name="Shape4" AllowVectorExport="True" Left="291,02381" Top="37,7953" Width="181,41744" Height="71,81107" Frame.Typ="0"/>
+    <TfrxShapeView Name="Shape1" AllowVectorExport="True" Left="15,11812" Top="162,51979" Width="687,87446" Height="79,37013" Frame.Typ="0" Shape="skRoundRectangle"/>
+    <TfrxMemoView Name="Memo1" AllowVectorExport="True" Left="517,79561" Top="177,63791" Width="166,29932" Height="49,13389" Font.Charset="1" Font.Color="0" Font.Height="-21" Font.Name="Cairo Black" Font.Style="0" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="اللغة العربية"/>
+    <TfrxShapeView Name="Shape2" AllowVectorExport="True" Left="15,11812" Top="279,68522" Width="687,87446" Height="79,37013" Frame.Typ="0" Shape="skRoundRectangle"/>
+    <TfrxMemoView Name="Memo2" AllowVectorExport="True" Left="517,79561" Top="294,80334" Width="166,29932" Height="49,13389" Font.Charset="1" Font.Color="0" Font.Height="-21" Font.Name="Cairo Black" Font.Style="0" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="اللغة الفرنسية"/>
+    <TfrxShapeView Name="Shape3" AllowVectorExport="True" Left="15,11812" Top="393,07112" Width="687,87446" Height="79,37013" Frame.Typ="0" Shape="skRoundRectangle"/>
+    <TfrxMemoView Name="Memo3" AllowVectorExport="True" Left="517,79561" Top="408,18924" Width="166,29932" Height="49,13389" Font.Charset="1" Font.Color="0" Font.Height="-21" Font.Name="Cairo Black" Font.Style="0" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="اللغة الانجليزية"/>
+    <TfrxMemoView Name="Memo4" AllowVectorExport="True" Left="26,45671" Top="177,63791" Width="476,22078" Height="49,13389" Font.Charset="1" Font.Color="0" Font.Height="-21" Font.Name="Cairo Black" Font.Style="0" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="AR"/>
+    <TfrxMemoView Name="Memo5" AllowVectorExport="True" Left="26,45671" Top="294,80334" Width="476,22078" Height="49,13389" Font.Charset="1" Font.Color="0" Font.Height="-21" Font.Name="Cairo Black" Font.Style="0" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="FR"/>
+    <TfrxMemoView Name="Memo6" AllowVectorExport="True" Left="26,45671" Top="408,18924" Width="476,22078" Height="49,13389" Font.Charset="1" Font.Color="0" Font.Height="-21" Font.Name="Cairo Black" Font.Style="0" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="EN"/>
+    <TfrxMemoView Name="Date" IndexTag="1" AllowVectorExport="True" Left="548,03185" Top="551,81138" Width="143,62214" Height="45,35436" Font.Charset="1" Font.Color="0" Font.Height="-15" Font.Name="Cairo Light" Font.Style="0" Frame.Typ="0" HAlign="haCenter" ParentFont="False" VAlign="vaCenter" Text="[Date]"/>
+    <TfrxMemoView Name="Time" IndexTag="1" AllowVectorExport="True" Left="18,89765" Top="551,81138" Width="181,41744" Height="45,35436" Font.Charset="1" Font.Color="0" Font.Height="-15" Font.Name="Cairo Light" Font.Style="0" Frame.Typ="0" HAlign="haCenter" ParentFont="False" VAlign="vaCenter" Text="[Time]"/>
+    <TfrxMemoView Name="Memo7" AllowVectorExport="True" Left="298,58287" Top="49,13389" Width="166,29932" Height="49,13389" Font.Charset="1" Font.Color="0" Font.Height="-24" Font.Name="Cairo Black" Font.Style="0" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="التقرير "/>
+    <TfrxLineView Name="Line1" AllowVectorExport="True" Left="506,45702" Top="173,85838" Width="0" Height="56,69295" Color="0" Frame.Typ="1"/>
+    <TfrxLineView Name="Line2" AllowVectorExport="True" Left="510,23655" Top="287,24428" Width="0" Height="60,47248" Color="0" Frame.Typ="1"/>
+    <TfrxLineView Name="Line3" AllowVectorExport="True" Left="510,23655" Top="400,63018" Width="0" Height="56,69295" Color="0" Frame.Typ="1"/>
+  </TfrxReportPage>
+</TfrxReport>

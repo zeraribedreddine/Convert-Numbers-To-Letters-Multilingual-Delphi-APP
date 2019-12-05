@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/02 23:48:19.000.454,=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/12/02 23:49:27.000.719,C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\kikatokiro\Desktop\Conversation des Money En Letter Milti Lunguage\Conversation_Money.dfm</Transaction>
+    <Transaction>2019/12/02 23:49:27.000.719,C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\kikatokiro\Desktop\Conversation des Money En Letter Milti Lunguage\Conversation_Money.pas</Transaction>
+    <Transaction>2019/12/02 23:49:29.000.282,C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\kikatokiro\Desktop\Conversation des Money En Letter Milti Lunguage\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
